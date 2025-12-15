@@ -17,7 +17,7 @@
 const developer = {
     name: "! 𝑭𝑨𝑳𝑪𝑶𝑵 🦅",
     role: "Full Stack Developer & Automation Specialist",
-    location: "🌍 Your Location",
+    location: "🇹🇳 Tunisia",
     experience: "Professional Developer",
     
     expertise: {
