@@ -131,11 +131,6 @@ class CurrentProjects:
 
 </div>
 
-## 🏆 3D Contribution Graph
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</div>
-
 ## 📈 Contribution Snake
 
 <div align="center">
