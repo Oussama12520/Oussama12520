@@ -98,9 +98,11 @@ const developer = {
 
 ## 🏆 GitHub Trophies
 
+<!-- GitHub Trophies (Uncomment when service is back online - currently returning 503 Service Unavailable)
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Oussama12520&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
+-->
 
 
 
