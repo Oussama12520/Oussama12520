@@ -1,16 +1,16 @@
-# <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> ! 𝐎𝐒𝐀𝐌𝐀
+# <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+!+%F0%9D%90%8E%F0%9D%90%92%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%80;Backend+Developer+%26+Bot+Maker;C%23+%26+Python+Expert;Passionate+about+clean+code+%26+automation" alt="Typing SVG" /> </h1>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oussama12520&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Oussama12520?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
 </p>
 
 ### 🚀 About Me
-Professional **Full Stack Developer & Automation Specialist** based in Tunisia. I focus on building intelligent, scalable automation solutions and high-performance bots.
+**Backend Developer & Bot Maker | C# & Python Expert** based in Tunisia. I am passionate about writing clean code and building scalable automation solutions.
 
-- 🤖 **Bot Development**: Discord, Telegram, and Social Media automation.
-- ⚙️ **Process Automation**: Workflow optimization and task scheduling.
-- 🌐 **Full Stack**: Specialized in backend logic and API integration.
+- 🤖 **Bot Development**: High-performance automation for Discord, Telegram, and Social Media.
+- ⚙️ **Process Automation**: Workflow optimization, task scheduling, and systems integration.
+- 🛠️ **Systems Logic**: Deep expertise in C# and Python for robust backend architectures.
 
 ---
 
