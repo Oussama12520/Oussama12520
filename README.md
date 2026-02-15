@@ -8,9 +8,9 @@
 ### 🚀 About Me
 **Backend Developer & Bot Maker | C# & Python Expert** based in Tunisia. I am passionate about writing clean code and building scalable automation solutions.
 
-🔹 **Bot Development**: High-performance automation for Discord, Telegram, and Social Media.
-🔹 **Process Automation**: Workflow optimization, task scheduling, and systems integration.
-🔹 **Systems Logic**: Deep expertise in C# and Python for robust backend architectures.
+-🔹 **Bot Development**: High-performance automation for Discord, Telegram, and Social Media.
+-🔹 **Process Automation**: Workflow optimization, task scheduling, and systems integration.
+-🔹 **Systems Logic**: Deep expertise in C# and Python for robust backend architectures.
 
 ---
 
