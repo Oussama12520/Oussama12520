@@ -44,8 +44,3 @@ I build reliable backend systems and automation tools with a strong focus on cle
 </p>
 
 ---
-
-<p align="center">
-  <i>"Keep it clean. Keep it scalable."</i><br>
-  Built with ⚡ by <b><a href="https://github.com/Oussama12520">Oussama12520</a></b>
-</p>
