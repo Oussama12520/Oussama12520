@@ -14,10 +14,10 @@
 Backend Developer & Automation Engineer specializing in **C# and Python**.  
 I build reliable backend systems and automation tools with a strong focus on clean code and performance.
 
-- 🔹 Discord & Telegram bot development  
-- 🔹 Backend logic & API integration  
-- 🔹 Workflow and task automation  
-- 🔹 Maintainable, production-ready code  
+- Discord & Telegram bot development  
+- Backend logic & API integration  
+- Workflow and task automation  
+- Maintainable, production-ready code  
 
 > Focused on writing code that works, scales, and lasts.
 
