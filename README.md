@@ -1,4 +1,4 @@
-# <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+!+%F0%9D%90%8E%F0%9D%90%92%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%80;Backend+Developer+%26+Bot+Maker;C%23+%26+Python+Expert;Passionate+about+clean+code+%26+automation" alt="Typing SVG" /> </h1>
+# <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=cc1e00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+!+%F0%9D%90%8E%F0%9D%90%92%F0%9D%90%80%F0%9D%90%8C%F0%9D%90%80;Backend+Developer+%26+Bot+Maker;C%23+%26+Python+Expert;Passionate+about+clean+code+%26+automation" alt="Typing SVG" /> </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oussama12520&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
