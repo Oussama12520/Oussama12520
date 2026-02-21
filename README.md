@@ -6,9 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Oussama12520&label=Profile%20Views&color=cc1e00&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Oussama12520?label=Followers&style=flat-square&color=cc1e00" />
 </p>
-
 ---
-
 ## ✨ About Me
 
 Backend Developer & Automation Specialist specializing in **C# and Python**.  
