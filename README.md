@@ -33,7 +33,7 @@ I build reliable backend systems and automation tools with a focus on clean code
 
 ---
 
-## 🌐 Connect With Me
+## 🎗️ Connect With Me
 
 <p align="left">
   <a href="https://discord.gg/Hw3spF8R6H"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
