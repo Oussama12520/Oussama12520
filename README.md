@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Oussama12520&label=Profile%20Views&color=cc1e00&style=flat-square" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBxbzhydjltbW1xaHhsYXI4dDR3YjBycGRubGV1cGRoaGJ5eW9jNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zSz5MVw4zKg0/giphy.gif" width="900">
 ## ✨ About Me
 
 Backend Developer & Automation Specialist specializing in **C# and Python**.  
