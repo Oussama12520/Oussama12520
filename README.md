@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/github/followers/Oussama12520?label=Followers&style=flat-square&color=cc1e00" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## ✨ About Me
 
 Backend Developer & Automation Specialist specializing in **C# and Python**.  
