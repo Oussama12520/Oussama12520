@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
 Backend Developer & Automation Engineer specializing in **C# and Python**.  
 I build reliable backend systems and automation tools with a strong focus on clean code and performance.
