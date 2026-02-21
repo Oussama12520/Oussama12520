@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=cc1e00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Oussama;Backend+Developer+%26+Automation+Engineer;C%23+%26+Python+Specialist;Building+Reliable+%26+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=cc1e00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Oussama;Backend+Developer+%26+Automation+Specialist;C%23+%26+Python+Focus;Building+Reliable+%26+Scalable+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,8 +11,8 @@
 
 ## ✨ About Me
 
-Backend Developer & Automation Engineer specializing in **C# and Python**.  
-I build reliable backend systems and automation tools with a strong focus on clean code and performance.
+Backend Developer & Automation Specialist specializing in **C# and Python**.  
+I build reliable backend systems and automation tools with a focus on clean code and performance.
 
 - Discord & Telegram bot development  
 - Backend logic & API integration  
@@ -42,5 +42,3 @@ I build reliable backend systems and automation tools with a strong focus on cle
   <a href="https://x.com/xdark_11"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="mailto:oussemamasmoudi7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
-
----
