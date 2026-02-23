@@ -9,7 +9,7 @@ Building scalable systems and smart automation tools.
 ### Connect With Me
 
 - GitHub: https://github.com/Oussama12520
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
+- LinkedIn: https://www.linkedin.com/in/oussema-masmoudi-a18151362/
 - Portfolio: https://your-portfolio.com
 - Email: your.email@example.com
 
