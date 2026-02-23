@@ -4,7 +4,7 @@ Love turning ideas into working products.
 Backend Developer | Automation Engineer | Bot Developer  
 Building scalable systems and smart automation tools.
 
----
+**********************
 
 ### Connect With Me
 
@@ -13,7 +13,7 @@ Building scalable systems and smart automation tools.
 - Portfolio: https://oussama12520.github.io/OSAMA-portfolio/
 - Email: oussemamasmoudi7@gmail.com
 
----
+**********************
 
 ### Skills & Tools
 
@@ -32,7 +32,7 @@ MySQL, SQL Server
 **DevOps & Tools:**  
 Docker, Git, Linux, Postman, REST APIs
 
----
+**********************
 
 ### What I Build
 
@@ -42,7 +42,7 @@ Docker, Git, Linux, Postman, REST APIs
 - Telegram bots (automation, services, integrations)
 - Automation & workflow systems
 
----
+**********************
 
 ### GitHub Stats
 
@@ -50,6 +50,6 @@ Docker, Git, Linux, Postman, REST APIs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama12520&layout=compact&theme=tokyonight)
 
----
+**********************
 
 > “Discipline creates freedom.”
