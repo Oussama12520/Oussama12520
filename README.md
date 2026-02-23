@@ -4,7 +4,8 @@ Love turning ideas into working products.
 Backend Developer | Automation Engineer | Bot Developer  
 Building scalable systems and smart automation tools.
 
-**********************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
 ### Connect With Me
 
 - GitHub: https://github.com/Oussama12520
@@ -12,7 +13,8 @@ Building scalable systems and smart automation tools.
 - Portfolio: https://oussama12520.github.io/OSAMA-portfolio/
 - Email: oussemamasmoudi7@gmail.com
 
-**********************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
 ### Skills & Tools
 
 **Backend Languages:**  
@@ -30,7 +32,8 @@ MySQL, SQL Server
 **DevOps & Tools:**  
 Docker, Git, Linux, Postman, REST APIs
 
-**********************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
 ### What I Build
 
 - High-performance REST APIs
@@ -39,12 +42,14 @@ Docker, Git, Linux, Postman, REST APIs
 - Telegram bots (automation, services, integrations)
 - Automation & workflow systems
 
-**********************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oussama12520&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama12520&layout=compact&theme=tokyonight)
 
-**********************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
 > “Discipline creates freedom.”
