@@ -1,50 +1,43 @@
-## ! OSAMA
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=cc1e00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+!OSAMA;Backend+Developer+%26+Automation+Specialist;C%23+%26+Python+Focus;Building+Reliable+%26+Scalable+Solutions" alt="Typing SVG" />
+</h1>
 
-Love turning ideas into working products.  
-Backend Developer | Automation Engineer | Bot Developer  
-Building scalable systems and smart automation tools.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oussama12520&label=Profile%20Views&color=cc1e00&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Oussama12520?label=Followers&style=flat-square&color=cc1e00" />
+</p>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100"> -->
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-### Connect With Me
+## ✨ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
-- GitHub: https://github.com/Oussama12520
-- LinkedIn: https://www.linkedin.com/in/oussema-masmoudi-a18151362/
-- Portfolio: https://oussama12520.github.io/OSAMA-portfolio/
-- Email: oussemamasmoudi7@gmail.com
+Backend Developer & Automation Specialist specializing in **C# and Python**.  
+I build reliable backend systems and automation tools with a focus on clean code and performance.
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-### Skills & Tools
+- Discord & Telegram bot development  
+- Backend logic & API integration  
+- Workflow and task automation  
+- Maintainable, production-ready code  
 
-**Backend Languages:**  
-Java, C#, Python, PHP, JavaScript
+> Focused on writing code that works, scales, and lasts.
 
-**Frameworks & Runtime:**  
-.NET, Node.js
+---
 
-**Bot Development:**  
-Discord Bots (Advanced), Telegram Bots (Advanced), API Integrations, Webhooks
+## 🛠 Tech Stack
 
-**Databases:**  
-MySQL, SQL Server
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python • C# • Java • JavaScript • C • HTML5 |
+| **Frameworks & APIs** | .NET • Node.js • Discord.py • Telegram Bot API |
+| **Tools** | Git • GitHub • Docker • Linux • VS Code |
 
-**DevOps & Tools:**  
-Docker, Git, Linux, Postman, REST APIs
+---
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-### What I Build
+## 🎗️ Connect With Me
 
-- High-performance REST APIs
-- Scalable backend systems
-- Custom Discord bots (moderation, economy, AI, dashboards)
-- Telegram bots (automation, services, integrations)
-- Automation & workflow systems
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oussama12520&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama12520&layout=compact&theme=tokyonight)
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-> “Discipline creates freedom.”
+<p align="left">
+  <a href="https://discord.gg/Hw3spF8R6H"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://t.me/falcon_0x1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/oussema-masmoudi-a18151362/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/xdark_11"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="mailto:oussemamasmoudi7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
