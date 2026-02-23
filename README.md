@@ -11,7 +11,7 @@ Building scalable systems and smart automation tools.
 - GitHub: https://github.com/Oussama12520
 - LinkedIn: https://www.linkedin.com/in/oussema-masmoudi-a18151362/
 - Portfolio: https://oussama12520.github.io/OSAMA-portfolio/
-- Email: your.email@example.com
+- Email: oussemamasmoudi7@gmail.com
 
 ---
 
