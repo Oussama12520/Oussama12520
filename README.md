@@ -21,7 +21,8 @@ I build reliable backend systems and automation tools with a focus on clean code
 
 ## Contact Me
 
-- Discord: [https://discord.gg/Hw3spF8R6H](https://discord.gg/Hw3spF8R6H)  
+- Discord: [https://discord.gg/Hw3spF8R6H](https://discord.gg/Hw3spF8R6H)
+- Instagram: [https://www.instagram.com/ous7x_/](https://www.instagram.com/ous7x_/)
 - Telegram: [https://t.me/falcon_0x1](https://t.me/falcon_0x1)  
 - LinkedIn: [https://www.linkedin.com/in/oussema-masmoudi-a18151362/](https://www.linkedin.com/in/oussema-masmoudi-a18151362/)  
 - X (Twitter): [https://x.com/xdark_11](https://x.com/xdark_11)  
