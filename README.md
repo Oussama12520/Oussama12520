@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/github/followers/Oussama12520?label=Followers&style=flat-square&color=cc1e00" />
 </p>
 
-
 ## About Me
 
 Backend Developer & Automation Specialist specializing in **C# and Python**.  
@@ -20,8 +19,6 @@ I build reliable backend systems and automation tools with a focus on clean code
 
 > Focused on writing code that works, scales, and lasts.
 
----
-
 ## Contact Me
 
 - Discord: [https://discord.gg/Hw3spF8R6H](https://discord.gg/Hw3spF8R6H)  
@@ -30,7 +27,5 @@ I build reliable backend systems and automation tools with a focus on clean code
 - X (Twitter): [https://x.com/xdark_11](https://x.com/xdark_11)  
 - Portfolio: [https://ousama-portfolio-link.com](https://oussama12520.github.io/OSAMA-portfolio/)  
 - Email: oussemamasmoudi7@gmail.com
-
----
 
 Always open to collaboration, backend projects, and automation ideas.
