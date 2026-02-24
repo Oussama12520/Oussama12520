@@ -6,9 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=Oussama12520&label=Profile%20Views&color=cc1e00&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Oussama12520?label=Followers&style=flat-square&color=cc1e00" />
 </p>
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100"> -->
 
-## ✨ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+---
+
+## About Me
 
 Backend Developer & Automation Specialist specializing in **C# and Python**.  
 I build reliable backend systems and automation tools with a focus on clean code and performance.
@@ -22,22 +23,15 @@ I build reliable backend systems and automation tools with a focus on clean code
 
 ---
 
-## 🛠 Tech Stack
+## Contact Me
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python • C# • Java • JavaScript • C • HTML5 |
-| **Frameworks & APIs** | .NET • Node.js • Discord.py • Telegram Bot API |
-| **Tools** | Git • GitHub • Docker • Linux • VS Code |
+- Discord: [https://discord.gg/Hw3spF8R6H](https://discord.gg/Hw3spF8R6H)  
+- Telegram: [https://t.me/falcon_0x1](https://t.me/falcon_0x1)  
+- LinkedIn: [https://www.linkedin.com/in/oussema-masmoudi-a18151362/](https://www.linkedin.com/in/oussema-masmoudi-a18151362/)  
+- X (Twitter): [https://x.com/xdark_11](https://x.com/xdark_11)  
+- Portfolio: [https://ousama-portfolio-link.com](https://ousama-portfolio-link.com)  
+- Email: oussemamasmoudi7@gmail.com
 
 ---
 
-## 🎗️ Connect With Me
-
-<p align="left">
-  <a href="https://discord.gg/Hw3spF8R6H"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-  <a href="https://t.me/falcon_0x1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/oussema-masmoudi-a18151362/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/xdark_11"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="mailto:oussemamasmoudi7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+Always open to collaboration, backend projects, and automation ideas.
