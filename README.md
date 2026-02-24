@@ -21,7 +21,7 @@ I build reliable backend systems and automation tools with a focus on clean code
 
 ## Contact Me
 
-- Portfolio: [https://ousama-portfolio-link.com](https://oussama12520.github.io/OSAMA-portfolio/) 
+- Portfolio: [https://ousama-portfolio-link.com](https://oussama12520.github.io/OSAMA-portfolio/) <<<<<
 - Discord: [https://discord.gg/Hw3spF8R6H](https://discord.gg/Hw3spF8R6H)
 - Instagram: [https://www.instagram.com/ous7x_/](https://www.instagram.com/ous7x_/)
 - Telegram: [https://t.me/falcon_0x1](https://t.me/falcon_0x1)  
