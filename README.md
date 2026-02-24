@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/github/followers/Oussama12520?label=Followers&style=flat-square&color=cc1e00" />
 </p>
 
----
 
 ## About Me
 
