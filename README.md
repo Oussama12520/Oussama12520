@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/Oussama12520?label=Followers&style=flat-square&color=cc1e00" />
 </p>
 
-## About Me
+## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
 Backend Developer & Automation Specialist specializing in **C# and Python**.  
 I build reliable backend systems and automation tools with a focus on clean code and performance.
