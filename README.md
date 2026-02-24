@@ -29,7 +29,7 @@ I build reliable backend systems and automation tools with a focus on clean code
 - Telegram: [https://t.me/falcon_0x1](https://t.me/falcon_0x1)  
 - LinkedIn: [https://www.linkedin.com/in/oussema-masmoudi-a18151362/](https://www.linkedin.com/in/oussema-masmoudi-a18151362/)  
 - X (Twitter): [https://x.com/xdark_11](https://x.com/xdark_11)  
-- Portfolio: [https://ousama-portfolio-link.com](https://ousama-portfolio-link.com)  
+- Portfolio: [https://ousama-portfolio-link.com](https://oussama12520.github.io/OSAMA-portfolio/)  
 - Email: oussemamasmoudi7@gmail.com
 
 ---
