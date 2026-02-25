@@ -1,7 +1,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=cc1e00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+!OSAMA;Backend+Developer+%26+Automation+Specialist;C%23+%26+Python+Focus;Building+Reliable+%26+Scalable+Solutions" alt="Typing SVG" />
 </h1>
+
 ---
+
 ## About Me
 
 Backend Developer & Automation Specialist specializing in **C# and Python**.  
