@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=cc1e00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+!OSAMA;Backend+Developer+%26+Automation+Specialist;C%23+%26+Python+Focus;Building+Reliable+%26+Scalable+Solutions" alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oussama12520&label=Profile%20Views&color=cc1e00&style=flat-square" />
+  <!-- <img src="https://img.shields.io/github/followers/Oussama12520?label=Followers&style=flat-square&color=cc1e00" /> -->
+</p>
 <h2>About Me</h2>
 
 Backend Developer & Automation Specialist specializing in **C# and Python**.  
@@ -26,7 +29,4 @@ I build reliable backend systems and automation tools with a focus on clean code
 
 Always open to collaboration, backend projects, and automation ideas.
 
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oussama12520&label=Profile%20Views&color=cc1e00&style=flat-square" />
-  <!-- <img src="https://img.shields.io/github/followers/Oussama12520?label=Followers&style=flat-square&color=cc1e00" /> -->
-</p>
+ 
