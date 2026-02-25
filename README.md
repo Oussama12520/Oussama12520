@@ -14,7 +14,7 @@ I build reliable backend systems and automation tools with a focus on clean code
 
 > Focused on writing code that works, scales, and lasts.
 
-## Contact Me
+<h2>Contact Me</h2>
 
 - Portfolio: [https://ousama-portfolio-link.com](https://oussama12520.github.io/OSAMA-portfolio/) <<<<<
 - Discord: [https://discord.gg/Hw3spF8R6H](https://discord.gg/Hw3spF8R6H)
