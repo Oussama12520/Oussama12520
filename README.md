@@ -4,7 +4,7 @@
 
 <h2>About Me</h2>
 
-Backend Developer & Automation Specialist specializing in **C# and Python**.  
+Backend Developer & Automation Specialist. **C# and Python expert**.  
 I build reliable backend systems and automation tools with a focus on clean code and performance.
 
 - Discord & Telegram bot development  
