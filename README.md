@@ -3,9 +3,9 @@
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&weight=700&size=40&pause=1000&color=cc1e00&center=true&vCenter=true&width=700&lines=%D8%A7%D8%AE%D8%B1%D8%AC+%D8%B9%D9%86+%D8%A7%D9%84%D9%82%D8%B7%D9%8A%D8%B9" />
-</p>
+<h1 align="center">
+  <span style="color:#cc1e00;">اخرج عن القطيع</span>
+</h1>
 
 <h2>About Me</h2>
 
