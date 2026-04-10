@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&weight=700&size=44&color=cc1e00&center=true&vCenter=true&width=700&height=120&lines=اخرج+عن+القطيع" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&weight=700&size=46&color=cc1e00&center=true&vCenter=true&width=800&height=140&lines=اخرج+عن+القطيع" />
 </p>
 
 
