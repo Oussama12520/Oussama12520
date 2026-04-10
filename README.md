@@ -2,6 +2,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=cc1e00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+!OSAMA;Backend+Developer+%26+Automation+Specialist;C%23+%26+Python+Focus;Building+Reliable+%26+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
+
+```markdown
+<p align="right">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=2000&color=cc1e00&direction=rtl&width=400&lines=%D8%A7%D8%AE%D8%B1%D8%AC+%D8%B9%D9%86+%D8%A7%D9%84%D9%82%D8%B7%D9%8A%D8%B9" alt="Typing SVG" />
+</p>
+
+
+
+
+
+
+
 Backend Developer & Automation Specialist. **C# and Python expert**.  
 I build reliable backend systems and automation tools with a focus on clean code and performance.
 
