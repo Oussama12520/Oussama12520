@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&weight=700&size=38&pause=1000&color=cc1e00&center=true&vCenter=true&width=600&lines=اخرج+عن+القطيع" />
+  <span style="font-family: 'Amiri', serif; font-size: 38px; font-weight: 700; color: #cc1e00;">
+    اخرج عن القطيع
+  </span>
 </p>
 
 
