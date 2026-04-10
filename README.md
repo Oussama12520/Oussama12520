@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%D8%A7%D8%AE%D8%B1%D8%AC%20%D8%B9%D9%86%20%D8%A7%D9%84%D9%82%D8%B7%D9%8A%D8%B9-Break%20The%20Norm-cc1e00?style=for-the-badge&logoColor=white" alt="Motto" />
+<img src="https://quotes-github-readme.vercel.app/api?quote=%D8%A7%D8%AE%D8%B1%D8%AC%20%D8%B9%D9%86%20%D8%A7%D9%84%D9%82%D8%B7%D9%8I%D8%B9&author=Osama&theme=radical&border_color=cc1e00&text_color=ffffff" alt="Osama Motto" />
 </p>
 
 
