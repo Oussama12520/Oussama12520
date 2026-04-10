@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&weight=700&size=46&color=cc1e00&center=true&vCenter=true&width=800&height=140&lines=اخرج+عن+القطيع" />
 </p>
+<p align="center">
+  <img src="https://dummyimage.com/800x140/ffffff/cc1e00.png&text=%D8%A7%D8%AE%D8%B1%D8%AC+%D8%B9%D9%86+%D8%A7%D9%84%D9%82%D8%B7%D9%8A%D8%B9" />
+</p>
 
 
 <p align="center">
