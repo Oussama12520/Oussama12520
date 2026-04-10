@@ -3,9 +3,11 @@
 </p>
 
 
-<h1 align="center">
-  <span style="color:#cc1e00;">اخرج عن القطيع</span>
-</h1>
+<div align="center">
+
+# اخرج عن القطيع
+
+</div>
 
 <h2>About Me</h2>
 
