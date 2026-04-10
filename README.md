@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=cc1e00&center=true&vCenter=true&width=600&lines=اخرج+عن+القطيع" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=cc1e00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+!OSAMA;Backend+Developer+%26+Automation+Specialist;C%23+%26+Python+Focus;Building+Reliable+%26+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&weight=700&size=38&pause=1000&color=cc1e00&center=true&vCenter=true&width=600&lines=اخرج+عن+القطيع" />
 </p>
 
 
