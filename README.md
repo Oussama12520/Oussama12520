@@ -1,18 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=cc1e00&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+!OSAMA;Backend+Developer+%26+Automation+Specialist;C%23+%26+Python+Focus;Building+Reliable+%26+Scalable+Solutions" alt="Typing SVG" />
 </p>
-
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?quote=%D8%A7%D8%AE%D8%B1%D8%AC%20%D8%B9%D9%86%20%D8%A7%D9%84%D9%82%D8%B7%D9%8I%D8%B9&author=Osama&theme=radical&border_color=cc1e00&text_color=ffffff" alt="Osama Motto" />
-</p>
-
-
-
-
-
-
-
 Backend Developer & Automation Specialist. **C# and Python expert**.  
 I build reliable backend systems and automation tools with a focus on clean code and performance.
 
