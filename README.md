@@ -19,7 +19,24 @@ I build reliable backend systems and automation tools with a focus on clean code
 - Telegram: [https://t.me/iOsama_0x1](https://t.me/iOsama_0x1)  
 - LinkedIn: [https://www.linkedin.com/in/oussema-masmoudi-a18151362/](https://www.linkedin.com/in/oussema-masmoudi-a18151362/)  
 - X (Twitter): [https://x.com/xdark_11](https://x.com/xdark_11)
-- Codeforces: [https://codeforces.com/profile/Oussama121](https://codeforces.com/profile/Oussama121)  
+- Codeforces: [https://codeforces.com/profile/Oussama121](https://codeforces.com/profile/Oussama121)
+
+- # Hi there, I'm Oussama12520 👋
+
+
+<!-- GitHub Profile Card -->
+[![Oussama12520's GitHub Card](https://ais-dev-57afbp2ymusixdtppuattg-641663869843.europe-west1.run.app/card/Oussama12520?theme=metallic&accent=%23f59e0b&bg=%2318181b&animation=pulse&showViews=true)](https://github.com/Oussama12520)
+
+<!-- Stats & Badges -->
+[![Profile Views](https://ais-dev-57afbp2ymusixdtppuattg-641663869843.europe-west1.run.app/badge/Oussama12520?type=views&theme=metallic&accent=%23f59e0b)](https://github.com/Oussama12520)
+[![Followers](https://ais-dev-57afbp2ymusixdtppuattg-641663869843.europe-west1.run.app/badge/Oussama12520?type=followers&accent=%23f59e0b)](https://github.com/Oussama12520)
+[![Repositories](https://ais-dev-57afbp2ymusixdtppuattg-641663869843.europe-west1.run.app/badge/Oussama12520?type=repositories&accent=%23f59e0b)](https://github.com/Oussama12520?tab=repositories)
+
+---
+
+### 🚀 About Me
+- 🔭 Working on high-performance web applications and backend microservices
+- ⚡ Fun fact: Everything in this profile is rendered live via GitCard Studio!
 - Email: oussemamasmoudi7@gmail.com
 
 Always open to collaboration, backend projects, and automation ideas.
